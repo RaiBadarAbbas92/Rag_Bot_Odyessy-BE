@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = ["Badar Abbas <raibadar37218@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.5"
+uvicorn = "^0.32.0"
+sentence-transformers = "^3.3.1"
+chroma = "^0.2.0"
+python-multipart = "^0.0.17"
+openai = "^1.54.5"
+pypdf2 = "^3.0.1"
+chromadb = "^0.5.20"
+pdfplumber = "^0.11.4"
+langchain-community = "^0.3.7"
+langchain-google-genai = "^2.0.5"
+fitz = "^0.0.1.dev2"
+pymupdf = "^1.24.14"
+psycopg2 = "^2.9.10"
+sqlmodel = "^0.0.22"
+asyncpg = "^0.30.0"
+passlib = "^1.7.4"
+pycryptodome = "^3.21.0"
+python-jose = "^3.3.0"
+pydantic = {extras = ["email"], version = "^2.10.4"}
+
+
+
+
+[tool.poetry.scripts]
+dev= "app.main:start"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

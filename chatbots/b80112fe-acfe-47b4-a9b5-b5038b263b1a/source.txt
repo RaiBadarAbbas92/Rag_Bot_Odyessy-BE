@@ -1,0 +1,48 @@
+Business Overview
+Name: Arab Food & Ice Bar
+Type: Fast Food Hotel
+Specialties: Pizza, Shawarma, Burgers, Fruit Chat, Ice Cream, Shakes
+Unique Features:
+Separate sitting areas for men and women.
+Fresh food prepared daily.
+Open 365 days a year.
+Home delivery available.
+Operating Hours
+Open Days: Monday to Sunday (All year round)
+Timings: 10:00 AM to 12:00 PM
+Pricing
+Price Range: Affordable (Low Prices)
+Menu Highlights
+Fast Food: Pizza, Shawarma, Burgers
+Snacks & Desserts: Fruit Chat, Ice Cream
+Drinks: Shakes
+Customer Features
+Seating Arrangement:
+Separate areas for men and women.
+Delivery:
+Home delivery available.
+Contact Information
+Phone: [Insert phone number]
+Location: [Insert address]
+Social Media: [Insert links to Facebook/Instagram]
+FAQs for Chatbot
+What is on the menu?
+"We offer Pizza, Shawarma, Burgers, Fruit Chat, Ice Cream, and Shakes!"
+
+What are your operating hours?
+"We are open from 10:00 AM to 12:00 PM, 365 days a year."
+
+Do you have separate seating for men and women?
+"Yes! We provide separate seating areas for men and women."
+
+Do you offer home delivery?
+"Yes, we deliver fresh food right to your doorstep!"
+
+How affordable are your prices?
+"Our prices are very budget-friendly!"
+
+Where are you located?
+"Find us at [insert location here]."
+
+How can I place an order?
+"You can call us at [phone number] or visit us in person!"
