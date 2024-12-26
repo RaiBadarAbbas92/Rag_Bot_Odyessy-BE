@@ -14,5 +14,4 @@ langgraph==0.2.35
 langchain-community==0.3.2
 langchain-core==0.3.10
 langchain-openai==0.2.2
-ipython==8.28.0
 bs4==0.0.2
